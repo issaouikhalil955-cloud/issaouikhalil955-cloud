@@ -20,7 +20,7 @@
 | Category | Technologies |
 |----------|--------------|
 | Languages | Python, C++, JavaScript |
-| Web Dev | HTML, CSS, React (soon) |
+| Web Dev | HTML, CSS, React (soon),css |
 | Tools | Git, GitHub, VS Code |
 
 ---
